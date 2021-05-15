@@ -32,7 +32,7 @@ Request items for issue, set due dates, issue items, return etc.
 
 1. Fork and clone this repository. Download the source code and open it in the console.
 
-2. Type `docker compose -up --build` to run the backend server.
+2. Type `docker compose up --build` to run the backend server.
                               
 3. Then navigate to frontend directory and type the following commands - 
  - `npm install`
